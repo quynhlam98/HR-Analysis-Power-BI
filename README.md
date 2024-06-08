@@ -22,4 +22,3 @@ Dataset: The dataset contains employee data and Atlas Labs Company performance t
   + Date
 
 # Model:  Snowflake Schema
-![schema](Snowflake Schema.png)
